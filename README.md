@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lushee
-- 👀 I’m interested in Open source brew
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on nano vlsi design for buds enhancement
-- 📫 How to reach me lakshmi.srikanta2018@vitstudent.ac.in
+- 👀 I’m interested in problem solving
+- 🌱 I’m currently learning Machine learning , C , AUTOSAR , STACK BUILDING for different modules for Automobiles
+- 💞️ I’m looking to collaborate on EMBEDDED , AUTOSAR ,UDS stack
+- 📫 How to reach me sgpparvathi@gmail.com
 
 <!---
 lushee/lushee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
